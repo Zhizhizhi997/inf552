@@ -1,2 +1,3 @@
 # inf552
-some pratice of machine learning
+machine learning algrithmn with only python and numpy.
+Some mahine learning software practice
